@@ -2,7 +2,7 @@
 let right =  document.querySelector(".landing .right")
 let landing =  document.querySelector(".landing")
 let mainTitle =  document.querySelector(".landing h1")
-let imgArray = ["url(../img/banner.jpg)","url(../img/vision.jpg)","url(../img/program.jpg)"]
+let imgArray = ["url(img/banner.jpg)","url(img/vision.jpg)","url(img/program.jpg)"]
 let textArray = [
 ` We're an Independant <br />
 Design & <span class="p-1">Developement</span> <br />
