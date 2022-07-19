@@ -459,6 +459,7 @@ footer .info p a:hover{
 }
 footer .mini-footer{
     border-top: 1px solid #929292;
+    max-height: 123px;
 }
 footer .mini-footer p,footer .mini-footer a svg{
     color: var(--text-color);
