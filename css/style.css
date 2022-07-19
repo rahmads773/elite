@@ -34,6 +34,10 @@ a{
 .upperheader{
     background-color: var(--dark-color);
 }
+@media(max-width:767px){
+    .upperheader .row{
+    gap:10px;}
+}
 .upperheader a{
     color: #fff;
 }
